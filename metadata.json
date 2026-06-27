@@ -1,0 +1,6 @@
+{
+  "name": "LyricSync Karaoke",
+  "description": "An Android app that searches for lyrics using Musixmatch & Gemini, automatically syncs with your local music library, and displays karaoke-style scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
